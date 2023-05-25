@@ -2,14 +2,14 @@
 title: 🧭 使用指南
 description: 🔴 更新中
 published: true
-date: 2023-05-25T07:45:38.404Z
+date: 2023-05-25T14:51:56.368Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-25T07:45:38.404Z
 ---
 
 [![GitHub](https://img.shields.io/github/stars/devgroworg/wiki?style=social)](https://github.com/devgroworg/wiki) [![Twitter](https://img.shields.io/twitter/follow/cossfun?style=social)](https://twitter.com/cossfun)
-[![Blog](https://img.shields.io/badge/Blog-coss.fun-blue)](https://coss.fun) [![Substack](https://img.shields.io/badge/Subscribe-Jun不断向前-orange?logo=substack)](https://juncfw.substack.com/) [![Slack](https://img.shields.io/badge/Join-DevGrow开发者增长-green?logo=slack)](https://join.slack.com/t/devgroworg/shared_invite/zt-1dn8b9f44-5Ux3_JqogMpunp8mErkNNA)
+[![Blog](https://img.shields.io/badge/-coss.fun-grey?logo=wordpress)](https://coss.fun) [![Substack](https://img.shields.io/badge/Subscribe-Jun不断向前-orange?logo=substack)](https://juncfw.substack.com/) [![Slack](https://img.shields.io/badge/Join-DevGrow开发者增长-green?logo=slack)](https://join.slack.com/t/devgroworg/shared_invite/zt-1dn8b9f44-5Ux3_JqogMpunp8mErkNNA)
 
 # 🎡 Wiki 主题
 本 Wiki 所关注的社区主要包括：
