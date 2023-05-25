@@ -8,6 +8,9 @@ editor: markdown
 dateCreated: 2023-05-25T07:45:38.404Z
 ---
 
+[![GitHub](https://img.shields.io/github/stars/devgroworg/wiki?style=social)](https://github.com/devgroworg/wiki)
+[![Blog](https://img.shields.io/badge/Blog-coss.fun-blue)](https://coss.fun) [![Twitter](https://img.shields.io/twitter/follow/cossfun?style=social)](https://twitter.com/cossfun) [![Slack](https://img.shields.io/badge/Join-DevGrow-orange?logo=slack)](https://join.slack.com/t/devgroworg/shared_invite/zt-1dn8b9f44-5Ux3_JqogMpunp8mErkNNA)
+
 # 🎡 Wiki 主题
 本 Wiki 所关注的社区主要包括：
 
@@ -16,7 +19,7 @@ dateCreated: 2023-05-25T07:45:38.404Z
 
 兴趣小组，学习型社区的情况虽然和本 Wiki 讨论的社区有一定的差别，但本 Wiki 提供的内容也有一定的参考性。
 
-# 🫶 目标读者
+# 🎧 目标读者
 社区，对有些人来说是工作，对有些人来说是兴趣。希望这个 Wiki 可以为你提供有用的信息，尤其是对以下人群：
 
 - 软件产品创业者，尤其针对中小企业用户与开发者群体的软件产品
@@ -28,4 +31,4 @@ dateCreated: 2023-05-25T07:45:38.404Z
 以下是本 Wiki 的导航图，方便读者快速定位相关话题。
 ![Wiki 导航图](/pic/devgrow_wiki.png)
 
-# 🔗 快速链接
+# 🫶 提供帮助
