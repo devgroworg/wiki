@@ -2,7 +2,7 @@
 title: 🎯 开发者社区：是什么，为什么
 description: 🔴 更新中
 published: true
-date: 2023-05-30T15:27:45.607Z
+date: 2023-06-02T17:21:45.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-25T05:35:20.349Z
@@ -48,9 +48,15 @@ dateCreated: 2023-05-25T05:35:20.349Z
 
 把社区中用户的分布，与资源用量结合起来看，我们会得到一个哑铃式的模型。很像是一块定胜糕的造型。
 
-![community_model.png](/pic/community_model.png)
+<div  align="center">    
+	<img src="/pic/community_model.png" height = "500" alt="community_model.png" align=center />
+</div>
 
 这个模型直观的说明了开发者社区的重要性：
 
-- 销售前：沉淀，分层，转化用户为客户
+- 销售前：吸引，分层，沉淀，转化用户为客户
 - 销售后：持续帮助客户，从而扩大客户对产品的使用量
+
+尤其对于 SaaS 型产品，很多时候签订销售合同时用户只是进行了预付费充值。从财务角度来看，预付费并不是企业的资产，而是一种负债。只有用户实际消耗了产品服务，相应的预付费才能最终确定为企业的收入。这种情况下，积极的开发者关系运营对企业的收入有着更加直接的促进作用。
+
+
