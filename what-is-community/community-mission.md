@@ -2,7 +2,7 @@
 title: 🎯 开发者社区：是什么，为什么
 description: 🔴 更新中
 published: true
-date: 2023-06-03T14:24:30.009Z
+date: 2023-06-03T14:26:26.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-25T05:35:20.349Z
@@ -46,9 +46,9 @@ dateCreated: 2023-05-25T05:35:20.349Z
 
 ## 开发者社区的基本模型
 
-开发者社区并不是商业化的对立面。开发者社区也是为商业化服务的。如何理这种模式的原理呢。
+开发者社区并不是商业化的对立面，开发者社区同样为商业化服务。如何理解这种模式的原理呢。
 
-把社区中用户的分布，与资源用量结合起来看，我们会得到一个哑铃式的模型。很像是一块定胜糕的造型。
+把社区中用户的分布，与资源用量结合起来看，我们会得到一个哑铃式的模型。
 
 <div  align="center">    
 	<img src="/pic/community_model.png" height = "500" alt="community_model.png" align=center />
